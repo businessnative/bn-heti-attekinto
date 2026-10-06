@@ -1,0 +1,10 @@
+{
+  "id": "heti-attekinto",
+  "title": "Heti üzleti áttekintő",
+  "group": "Háttérműködés",
+  "description": "Tekintsd át a heti eseményeket, pénzmozgásokat és nyitott feladatokat.",
+  "number": 9,
+  "repo": "bn-heti-attekinto",
+  "baseVersion": "0.2.0",
+  "baseSha256": "2ac86b0161d276dfb52eaed1c061d34fe95bc69ff7e9bbc7c657ee75780285f5"
+}
